@@ -1319,7 +1319,7 @@ section {
   margin: 0;
 }
 
-.footer-services ul {
+#footer .footer-top .footer-services ul {
   list-style: none;
 }
 
